@@ -156,6 +156,9 @@ color: white;
   margin-top: 40px;
   text-align: center;
 }
+.heading img{ 
+ margin-top: 10px;
+}
 .ser p{
   height: 170px;
   width: 350px;
